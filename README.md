@@ -4,7 +4,7 @@ Este é um projeto de uma landing page simples usando HTML e CSS.
 
 ## Foto
 
-![](../Landing%20Page/image/Captura%20de%20tela%202023-07-17%20181306.png)
+![FOTO](/image/Captura%20de%20tela%202023-07-17%20181306.png)
 ## Visão Geral
 
 A landing page é projetada para fornecer uma experiência visualmente atraente e concisa para os usuários. Ela inclui as seguintes seções:
